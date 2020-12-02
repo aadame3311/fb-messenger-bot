@@ -1,0 +1,25 @@
+{
+  "name": "fb-messenger-bot",
+  "version": "1.0.0",
+  "description": "facebook messenger bot",
+  "main": "app.js",
+  "dependencies": {
+    "facebook-chat-api": "^1.8.0",
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadame3311/fb-messenger-bot.git"
+  },
+  "author": "Antonio Adame Puente",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadame3311/fb-messenger-bot/issues"
+  },
+  "homepage": "https://github.com/aadame3311/fb-messenger-bot#readme"
+}
